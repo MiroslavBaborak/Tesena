@@ -1,0 +1,4 @@
+1. //book[@category='web']/title
+2. /bookstore/book[price>35.00]/price
+3. /bookstore/book[3]//author[3]/text()
+4. /bookstore/count(book[year=2005])
