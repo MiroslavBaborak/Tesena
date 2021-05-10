@@ -27,7 +27,36 @@ body
 }
 
 /* Banner */
+#footer
+{
+width: 800px;
+    margin: 0px auto -1px auto;
+    padding: 15px;
+    height:170px;
+    }
 
+.tweet
+{
+    float: left;
+    display: inline-block;
+}
 
+.my_pictures
+{
+  display: inline-block;
+}
 
+.my_friends
+{
+width: 350px;
+    height:150px;
+    right:-5px;
+    top: -20px;
+    float:right;
+}
+
+h3
+{
+  text-align: center
+}
 /* Body */
