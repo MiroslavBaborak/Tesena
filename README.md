@@ -7,4 +7,4 @@
 ~~tohle třeba přeškrtnu~~
 
 Zkus si formátování v readme.md
-> Tomas haka
+> Tomas Haka, 2021
